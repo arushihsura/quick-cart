@@ -2,8 +2,3 @@
 venv/
 __pycache__/
 .playwright/
-venv/
-.env
-ngrok
-ngrok-v3-stable-linux-amd64.tgz
-quick-cart/
